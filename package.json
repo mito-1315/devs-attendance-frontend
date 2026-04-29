@@ -1,7 +1,9 @@
 {
-      "name": "Blank Slate",
+      "name": "devs-attendance-frontend",
+      "description": "Attendance tracking application for developers",
       "version": "0.1.0",
       "private": true,
+      "license": "MIT",
       "dependencies": {
             "@radix-ui/react-accordion": "^1.2.3",
             "@radix-ui/react-alert-dialog": "^1.1.6",
